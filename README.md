@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif) -->
 
-<!-- ![MasterHead](https://miro.medium.com/max/1280/1*NLXenOYdb1_TvBoqh7LtFQ.gif) -->
-![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--5EezRsL4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/app-generator/django-user-profile/master/media/django-edit-profile-intro.gif)
+![MasterHead](https://www.silvertouch.com/wp-content/uploads/2020/08/big-data.jpg)
+<!-- ![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--5EezRsL4--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://raw.githubusercontent.com/app-generator/django-user-profile/master/media/django-edit-profile-intro.gif) -->
 
 <h1 align="center">Hi 👋, I'm Peter Mwendia</h1>
 <h3 align="center">A passionate full-stack developer from Nairobi, Kenya</h3>
