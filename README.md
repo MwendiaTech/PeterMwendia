@@ -19,9 +19,9 @@
 
 - 👯 I’m looking to collaborate on [Machine Learning](https://github.com/users/PeterMwendia/projects/1)
 
-//- 🤝 I’m looking for help with [Machine learning](https://github.com/users/PeterMwendia/projects/1)
+<!-- - 🤝 I’m looking for help with [Machine learning](https://github.com/users/PeterMwendia/projects/1) -->
 
-- 👨‍💻 All of my projects are available at [petermwendia](petermwendia)
+- 👨‍💻 All of my projects are available at [petermwendia](https://github.com/PeterMwendia)
 
 - 💬 Ask me about **React, Django, Python**
 
