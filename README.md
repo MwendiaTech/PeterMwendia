@@ -15,11 +15,11 @@
 
 - 🔭 I’m currently working on [Neural Network Model](https://github.com/PeterMwendia/Neural-Network-Model)
 
-- 🌱 I’m currently learning **Pytorch, Neural Network, Machine Learning, AI**
+- 🌱 I’m currently learning **Deep Learning, Neural Network, Machine Learning, AI**
 
 - 👯 I’m looking to collaborate on [Machine Learning](https://github.com/users/PeterMwendia/projects/1)
 
-- 🤝 I’m looking for help with [Machine learning](https://github.com/users/PeterMwendia/projects/1)
+//- 🤝 I’m looking for help with [Machine learning](https://github.com/users/PeterMwendia/projects/1)
 
 - 👨‍💻 All of my projects are available at [petermwendia](petermwendia)
 
