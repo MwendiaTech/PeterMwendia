@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working on [Deep Reinforcement Learning with Tensorflow keras](https://github.com/PeterMwendia/Neural-Network-Model)
 
-- 🌱 I’m currently learning **Deep Learning,Natural Language Processing, Neural Networks, Machine Learning Algorithms, AI**
+- 🌱 I’m currently perfecting skills on **Deep Learning,Natural Language Processing, Neural Networks, Machine Learning Algorithms, AI**
 
 - 👯 I’m looking to collaborate on [Machine Learning](https://github.com/users/PeterMwendia/projects/1)
 
