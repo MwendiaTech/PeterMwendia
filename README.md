@@ -13,9 +13,9 @@
 
 <p align="left"> <a href="https://twitter.com/daps_p" target="blank"><img src="https://img.shields.io/twitter/follow/daps_p?logo=twitter&style=for-the-badge" alt="daps_p" /></a> </p>
 
-- 🔭 I’m currently working on [Neural Network Model](https://github.com/PeterMwendia/Neural-Network-Model)
+- 🔭 I’m currently working on [Deep Reinforcement Learning with Tensorflow keras](https://github.com/PeterMwendia/Neural-Network-Model)
 
-- 🌱 I’m currently learning **Deep Learning, Neural Network, Machine Learning, AI**
+- 🌱 I’m currently learning **Deep Learning,Natural Language Processing, Neural Networks, Machine Learning Algorithms, AI**
 
 - 👯 I’m looking to collaborate on [Machine Learning](https://github.com/users/PeterMwendia/projects/1)
 
