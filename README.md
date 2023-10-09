@@ -9,7 +9,7 @@
 
 <!-- <img align="right" alt="Coding" width="500" src="https://media.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif"> -->
 <img align="right" alt="Coding" width="500" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=petermwendia&label=Profile%20views&color=0e75b6&style=flat" alt="petermwendia" /> </p> -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=petermwendia&label=Profile%20views&color=0e75b6&style=flat" alt="petermwendia" /> </p>
 
 <p align="left"> <a href="https://twitter.com/daps_p" target="blank"><img src="https://img.shields.io/twitter/follow/daps_p?logo=twitter&style=for-the-badge" alt="daps_p" /></a> </p>
 
